@@ -1,0 +1,14 @@
+Package: churnpredict
+Type: Package
+Title: Predict the churn probability of the customer 
+Version: 0.1.0
+Author: Pia dela Paz
+Maintainer: Pia <piarosebellemusni.delapaz@uzh.ch>
+Description: A package for calculating the probability of a customer churning
+License: None
+Encoding: UTF-8
+LazyData: true
+Depends: data.table
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
